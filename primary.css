@@ -17,11 +17,7 @@ body
 
 section
 {
-    display:                    grid;
-    grid-template-columns:      repeat(3, 1fr);
-    grid-template-rows:         repeat(2, 1fr);
-    grid-template-areas:        "BX4 BX3 BX2"
-                                "WC1 BX1 WC1 BX5";
+  
     
     
     
@@ -107,5 +103,4 @@ section
     z-index:                        2;
     
     opacity:                        .1;
-    
 }

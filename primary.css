@@ -20,7 +20,8 @@ section
     display:                    grid;
     grid-template-columns:      repeat(3, 1fr);
     grid-template-rows:         repeat(2, 1fr);
-    grid-template-areas:        "BX4 BX3 BX2";
+    grid-template-areas:        "BX4 BX3 BX2"
+                                "BX1 BX6 BX5";
     
     
     

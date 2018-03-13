@@ -20,6 +20,9 @@ section
     display:                    grid;
     grid-template-columns:      repeat(3, 1fr);
     grid-template-rows:         repeat(2, 1fr);
+    grid-template-areas:        "BX1";
+    
+    
     
     height:                     100%;
     width:                      100%;

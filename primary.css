@@ -48,6 +48,8 @@ section
    /* display:                        none;*/
     grid-area:                      BX1;
     background-color:               cornflowerblue;
+    
+    z-index:                        -1;
 }
 
 
@@ -89,6 +91,7 @@ section
     /*display:                        none;*/
     grid-area:                      BX6;
     background-color:               goldenrod;
+    z-index:                        -1;
 }
 
 
@@ -99,4 +102,5 @@ section
     height:                         100%;
     width:                          100%;
     background-color:               yellow;
+    z-index:                        2;
 }

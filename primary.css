@@ -20,3 +20,51 @@ body
     width:                      200px;
 }
 
+.green
+{
+    background-color:           palegreen;
+}
+
+.red
+{
+    background-color:           indianred;
+}
+
+.blue
+{
+    background-color:           skyblue;
+}
+
+.orange
+{
+    background-color:           coral;
+}
+
+
+.black
+{
+    background-color:           gray;
+}
+
+.pink
+{
+    background-color:           lightpink;
+}
+
+.purple
+{
+    background-color:           mediumpurple;
+}
+
+
+.yellow
+{
+    background-color:           lightyellow;
+}
+
+
+.aqua
+{
+    background-color:               paleturquoise;
+}
+

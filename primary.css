@@ -95,7 +95,7 @@ section
 
 #WC1
 {
-    /*display:                        none;*/
+    display:                        none;
     
     grid-area:                      WC1;
     height:                         100%;

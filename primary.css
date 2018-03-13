@@ -37,6 +37,7 @@ section
 
 #BX1
 {
+    grid-area:                      BX1;
     background-color:               cornflowerblue;
 }
 
@@ -44,6 +45,7 @@ section
 
 #BX2
 {
+    grid-area:                      BX2;
     background-color:               lightyellow;
 }
 
@@ -51,6 +53,7 @@ section
 
 #BX3
 {
+    grid-area:                      BX3;
     background-color:               aqua;
 }
 
@@ -58,16 +61,22 @@ section
 
 #BX4
 {
+    grid-area:                      BX4;
     background-color:               springgreen;
 }
 
 
+
 #BX5
 {
+    grid-area:                      BX5;                
     background-color:               mediumpurple;
 }
 
+
+
 #BX6
 {
+    grid-area:                      BX6;
     background-color:               goldenrod;
 }

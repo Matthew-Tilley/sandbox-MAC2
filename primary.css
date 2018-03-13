@@ -21,7 +21,7 @@ section
     grid-template-columns:      repeat(3, 1fr);
     grid-template-rows:         repeat(2, 1fr);
     grid-template-areas:        "BX4 BX3 BX2"
-                                "WC1 WC1 BX5";
+                                "BX6 BX1 BX5";
     
     
     
@@ -98,6 +98,8 @@ section
 
 #WC1
 {
+    display:                        none;
+    
     grid-area:                      WC1;
     height:                         100%;
     width:                          100%;
@@ -105,4 +107,5 @@ section
     z-index:                        2;
     
     opacity:                        .1;
+    
 }

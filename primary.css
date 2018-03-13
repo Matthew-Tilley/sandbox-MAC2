@@ -45,6 +45,7 @@ section
 
 #BX1
 {
+    display:                        none;
     grid-area:                      BX1;
     background-color:               cornflowerblue;
 }
@@ -85,6 +86,7 @@ section
 
 #BX6
 {
+    display:                        none;
     grid-area:                      BX6;
     background-color:               goldenrod;
 }

@@ -103,4 +103,6 @@ section
     width:                          100%;
     background-color:               yellow;
     z-index:                        2;
+    
+    opacity:                        .1;
 }
